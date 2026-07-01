@@ -68,7 +68,6 @@
 }
 
 .coonttainer {
-
     display: flex;
     justify-content: space-between;
 }
@@ -77,7 +76,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    margin-left: 292px;
+    margin-left: 100px;
     padding: 100px;
     gap: 5px;
 
@@ -107,7 +106,7 @@
     img {
         width: 507px;
         height: 450px;
-        margin-right: 300px;
+        margin-right: 100px;
     }
 }
 
@@ -120,7 +119,7 @@ p {
 
 .btn-shop {
     display: flex;
-    margin-top: 44px;
+    margin-top: 30px;
     background-color: #46A358;
     width: 140px;
     height: 45px;
